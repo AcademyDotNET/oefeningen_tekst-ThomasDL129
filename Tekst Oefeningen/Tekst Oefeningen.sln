@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCII Art", "Tekst Oefeningen\ASCII Art.csproj", "{5AB53569-B0B6-458D-BA28-B2810006AEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Interpolation", "String Interpolation\String Interpolation.csproj", "{75911650-DA3C-4250-A061-333D13539019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCII Art and Colours", "ASCII Art and Colours\ASCII Art and Colours.csproj", "{26F58DD9-4652-4A99-A7B4-E8F4F60974EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Systeem Informatie", "Systeem Informatie\Systeem Informatie.csproj", "{B2FBE0D8-5246-4E89-BA6D-547A7CEC0D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weerstandberekenaar", "Weerstandberekenaar\Weerstandberekenaar.csproj", "{4EE08028-FEC5-4183-993B-035F2F6B43C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell-Starter", "Shell-Starter\Shell-Starter.csproj", "{6DE0908A-4205-4802-9D3E-4168CD6199AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB53569-B0B6-458D-BA28-B2810006AEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB53569-B0B6-458D-BA28-B2810006AEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB53569-B0B6-458D-BA28-B2810006AEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB53569-B0B6-458D-BA28-B2810006AEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75911650-DA3C-4250-A061-333D13539019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75911650-DA3C-4250-A061-333D13539019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75911650-DA3C-4250-A061-333D13539019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75911650-DA3C-4250-A061-333D13539019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F58DD9-4652-4A99-A7B4-E8F4F60974EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F58DD9-4652-4A99-A7B4-E8F4F60974EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F58DD9-4652-4A99-A7B4-E8F4F60974EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F58DD9-4652-4A99-A7B4-E8F4F60974EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2FBE0D8-5246-4E89-BA6D-547A7CEC0D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FBE0D8-5246-4E89-BA6D-547A7CEC0D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FBE0D8-5246-4E89-BA6D-547A7CEC0D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FBE0D8-5246-4E89-BA6D-547A7CEC0D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE08028-FEC5-4183-993B-035F2F6B43C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE08028-FEC5-4183-993B-035F2F6B43C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE08028-FEC5-4183-993B-035F2F6B43C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE08028-FEC5-4183-993B-035F2F6B43C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE0908A-4205-4802-9D3E-4168CD6199AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE0908A-4205-4802-9D3E-4168CD6199AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE0908A-4205-4802-9D3E-4168CD6199AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE0908A-4205-4802-9D3E-4168CD6199AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B5DB628-197A-489D-97D2-F2D1875C718C}
+	EndGlobalSection
+EndGlobal
